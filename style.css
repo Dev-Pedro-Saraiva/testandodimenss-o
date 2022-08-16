@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Emilys Candy', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom:23px ;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+#hero {
+    width: 592px;
+    margin: 0 auto 72px;
+}
+
+#hero img {
+    margin-bottom: 72px;
+}
+
+body {
+    font-family: 'Emilys Candy', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+}
+
+span, a {
+    color: #FF9900;
+}
+p {
+    color: #707987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+#footer {
+    margin-bottom: 33px;
+
+}
+
+#footer a + a {
+    margin-left: 28px;
+}
+
+.line {
+    width: 586px;
+    margin: 0 auto 6px;
+    height: 0px;
+    border: 1px #ECEFF2 solid;
+}
+#bolls {
+    position: fixed;
+    right: 0;
+}
